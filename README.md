@@ -6,3 +6,7 @@ Here you can undestand how you can connect with provider and interactive with th
 
 #### 2. Read a smart contract
 We need interactive with the smart contract and in this point we start, how you can read smart contract functions. In this example we use DAI contract.  
+
+#### 3. Send Transaction 
+This part is interesting, you can sign your transaction and send some value to another account.
+

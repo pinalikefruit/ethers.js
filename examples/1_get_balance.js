@@ -1,8 +1,8 @@
 const { ethers } = require('ethers')
 require('dotenv').config()
 
-const GOERLI_PROVIDER = process.env.GOERLI_PROVIDER
-const provider = new ethers.providers.JsonRpcProvider(GOERLI_PROVIDER)
+const GOERLI_RPC_URL = process.env.GOERLI_RPC_URL
+const provider = new ethers.providers.JsonRpcProvider(GOERLI_RPC_URL)
 
 const address = '0x4317c44fD3143D8AC5723865CF046238A2cd8FD3'
 
