@@ -10,3 +10,6 @@ We need interactive with the smart contract and in this point we start, how you 
 #### 3. Send Transaction 
 This part is interesting, you can sign your transaction and send some value to another account.
 
+
+#### 4. Write in the contract
+In this topic you can learn how you can interactive with smart contract and write into them. In this exaple we use smart contract of LINK Token.
