@@ -3,3 +3,6 @@
 
 #### 1. Get Balance 
 Here you can undestand how you can connect with provider and interactive with them. So, the first example here is try to get de balance of any account. If you use a network can support ENS you can use.
+
+#### 2. Read a smart contract
+We need interactive with the smart contract and in this point we start, how you can read smart contract functions. In this example we use DAI contract.  
