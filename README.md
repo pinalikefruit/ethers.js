@@ -13,3 +13,10 @@ This part is interesting, you can sign your transaction and send some value to a
 
 #### 4. Write in the contract
 In this topic you can learn how you can interactive with smart contract and write into them. In this exaple we use smart contract of LINK Token.
+
+#### 5. Events
+You can track event of smart contract, in this cause, Transfer event in DAI contrat on Mainnet.
+
+
+#### 6. Inspecting block 
+We can look more about the whatever block 
