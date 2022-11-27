@@ -16,7 +16,7 @@ const main = async () => {
     const { transactions } = await provider.getBlockWithTransactions(block)
 
     console.log(`\nLogging first transaction in block:\n`)
-    console.log(transactions[0])
+    console.log(transactions[1])
 }
 
 main()
